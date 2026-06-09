@@ -33,4 +33,4 @@ SignReader is an iOS app that lets you interact with the sign language alphabet 
 
 ## Installation 
 
-Clone the project from the GitHub repository, then open it in Xcode. Make sure you're using the latest version of Xcode that's compatible with Swift 5, SwiftUI, and SwiftData to avoid any compatibility issues.
+Clone the project from the GitHub repository, then open it in Xcode. Make sure you're using the latest version of Xcode to avoid any compatibility issues.
