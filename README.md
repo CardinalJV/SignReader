@@ -6,3 +6,10 @@
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/create-ml-96x96_2x.png" alt="Logo Create ML" title="Create ML" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/machine-learning/core-ml/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-96x96_2x.png" alt="Logo CoreML" title="CoreML" width="68.5" height="68.5"/></a>
+
+# SignReader 
+
+SignReader is an iOS app that lets you interact with the sign language alphabet in real time — simply sign letters in front of your camera and watch them come together to form words, powered by a custom-trained recognition model fine-tuned for accuracy and responsiveness.
+
+## ScreenRecord
+
