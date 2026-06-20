@@ -11,7 +11,7 @@
 
 SignReader is an iOS app that lets you interact with the sign language alphabet in real time — simply sign letters in front of your camera and watch them come together to form words, powered by a custom-trained recognition model fine-tuned for accuracy and responsiveness.
 
-# Screencast
+## Screencast
 
 https://github.com/user-attachments/assets/96cf5e30-42bc-4a14-b252-ea4e5dd4b3b1
 
