@@ -38,3 +38,7 @@ https://github.com/user-attachments/assets/96cf5e30-42bc-4a14-b252-ea4e5dd4b3b1
 ## Installation 
 
 Clone the project from the GitHub repository, then open it in Xcode. Make sure you're using the latest version of Xcode to avoid any compatibility issues.
+
+## Credits
+
+Thanks to Moustapha and Nazanin for being my guinea pigs
