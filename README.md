@@ -41,4 +41,4 @@ Clone the project from the GitHub repository, then open it in Xcode. Make sure y
 
 ## Credits
 
-Thanks to Moustapha and Nazanin for being my guinea pigs
+Thanks to Nazanin for being my guinea pig
