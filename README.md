@@ -17,21 +17,36 @@ https://github.com/user-attachments/assets/96cf5e30-42bc-4a14-b252-ea4e5dd4b3b1
 
 ## Features
 
-* Real-time hand sign detection:
+Real-time hand sign detection:
+
     The app uses the camera to continuously analyze hand signs as they are performed. There is no need to pause, validate, or manually confirm each letter. The model processes the video stream in real time and immediately attempts to recognize the current sign.
-* Letter-by-letter word construction:
+    
+Letter-by-letter word construction:
+
     Each detected sign is converted into a letter and automatically added to the current word. This allows users to spell words naturally, one sign at a time, without interrupting the interaction flow.
-* Custom-trained recognition model:
+    
+Custom-trained recognition model:
+
     I trained a machine learning model specifically for sign language letter recognition. The model was built and fine-tuned using a dedicated dataset so it could learn the visual differences between each letter of the alphabet.
-* Model weakness identification and improvement:
+    
+Model weakness identification and improvement:
+
     After testing the first versions of the model, I analyzed its weaknesses and identified signs that were often confused or poorly recognized. This helped me understand where the model lacked accuracy and which letters needed more training examples.
-* Dataset enhancement with custom data:
+    
+Dataset enhancement with custom data:
+
     To improve the model’s performance, I added my own data to the training dataset. By collecting additional examples, especially for the signs that were harder to detect, I was able to make the model more reliable and better adapted to real usage conditions.
-* Improved accuracy across different conditions:
+    
+Improved accuracy across different conditions:
+
     The model was improved to better handle variations such as different hand shapes, skin tones, camera angles, and lighting environments. This makes the recognition system more robust and usable in more realistic situations.
-* Full alphabet support:
+    
+Full alphabet support:
+
     The app supports all 26 letters of the sign language alphabet, allowing users to form any word by combining recognized letters.
-* Instant visual feedback:
+    
+Instant visual feedback:
+
     Recognized letters are displayed immediately on screen, giving users clear feedback about what the app detects. This helps users correct their hand position if needed and makes the interaction easier to follow.
 
 ## Technical details
